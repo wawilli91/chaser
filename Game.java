@@ -25,6 +25,8 @@ public class Game extends JPanel implements KeyListener {
 	static int playerX = frameWidth / 2;
 	static int playerY = frameHeight / 2;
 	
+	//hi
+	
 	//Enemy's coordinate variables -- starts in the upper left corner
 	static int enemyX = 0;
 	static int enemyY = 0;
